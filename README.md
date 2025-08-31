@@ -1,6 +1,6 @@
 # DabbleESP32
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
+![Version](https://img.shields.io/badge/version-1.5.2-blue.svg)  
 ![Last Updated](https://img.shields.io/badge/updated-August%202025-brightgreen.svg)  
 ![Platform](https://img.shields.io/badge/platform-ESP32-orange.svg)  
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)  
