@@ -28,7 +28,7 @@ With DabbleESP32, you can easily integrate your ESP32 projects with modules such
 
 ## 📲 Requirements
 - ESP32 development board  
-- [Dabble mobile app (Android/iOS)](https://thestempedia.com/product/dabble/)  
+  - [Dabble mobile app (Android/iOS)](https://thestempedia.com/product/dabble/)  
   - [Download on Android (Google Play)](https://play.google.com/store/apps/details?id=io.dabbleapp)  
   - [Download on iOS (App Store)](https://apps.apple.com/us/app/dabble-bluetooth-controller/id1472734455)  
 - Arduino IDE (v1.8.19 or later) or PlatformIO  
@@ -43,3 +43,11 @@ With DabbleESP32, you can easily integrate your ESP32 projects with modules such
 ### 2. Include in Your Sketch
 ```cpp
 #include <DabbleESP32.h>
+```
+
+---
+
+## 📚 Resources
+
+  - [Getting Started with Dabble (STEMpedia Guide)](https://ai.thestempedia.com/docs/dabble-app/getting-started-with-dabble/) 
+  - [Arduino ESP32 Core](https://github.com/espressif/arduino-esp32)
